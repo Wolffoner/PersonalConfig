@@ -5,16 +5,16 @@ Information
 Author: Leandro Wolff
 </details>
 
-#Config IDE :shield:
+# Config IDE :shield:
 
 My Setup config for neovim based on [nschurman] repo. 
 [nschurman]:https://github.com/nschurmann/configs
 
-##Demo
+## Demo
 
 ![demo](./demo.png)
 
-##Setup
+## Setup
 
 - Update and upgrade your system
 
