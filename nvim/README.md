@@ -10,7 +10,7 @@ Author: Leandro Wolff
 My Setup config for neovim based on [nschurman] repo. 
 [nschurman]:https://github.com/nschurmann/configs
 
-## Demo
+## Preview
 
 ![demo](./demo.png)
 
