@@ -11,6 +11,6 @@ This repository contains my general config files with a guide to install the too
 
 ## Tools :wrench:
 
-- nvim
-- zsh
+- [Neovim](https://neovim.io/) 🛡️
+- [oh-my-zsh](https://ohmyz.sh/) ⚔️
 
