@@ -29,7 +29,7 @@ sudo apt-get install neovim
 
 - Configure providers following the steps of this link:
 
- -[Provider](https://neovim.io/doc/user/provider.html)
+  - [Provider](https://neovim.io/doc/user/provider.html)
 
 - Install Plug-vim
 
