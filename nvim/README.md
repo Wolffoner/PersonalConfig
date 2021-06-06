@@ -7,8 +7,7 @@ Author: Leandro Wolff
 
 # Config IDE :shield:
 
-My Setup config for neovim based on [nschurman] repo. 
-[nschurman]:https://github.com/nschurmann/configs
+My Setup config for neovim based on [nschurman](https://github.com/nschurmann/configs) repo. 
 
 ## Preview
 
@@ -49,7 +48,7 @@ sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.
 
 - Install the language of your preference with `:CocInstall`
 
-[Coc Language Servers]:https://github.com/neoclide/coc.nvim/wiki/Language-servers
+[Coc Language Servers](https://github.com/neoclide/coc.nvim/wiki/Language-servers)
 
 
 
