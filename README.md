@@ -5,7 +5,7 @@ Information
 Author: Leandro Wolff
 </details>
 
-#My config files :scroll:
+# My config files :scroll:
 
 This repository contains my general config files with a guide to install the tools.
 
