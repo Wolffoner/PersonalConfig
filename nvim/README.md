@@ -14,7 +14,7 @@ My Setup config for neovim based on [nschurman] repo.
 
 ![demo](./demo.png)
 
-## Setup
+## Setup Configuration
 
 - Update and upgrade your system
 
